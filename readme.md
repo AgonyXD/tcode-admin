@@ -17,6 +17,10 @@
 - Tokenizer PHP Extension
 - XML PHP Extension
 ## 安装
+composer安装依赖
+```
+    composer install
+```
 复制配置文件
 ```
     cp .env.example .env
