@@ -13,6 +13,4 @@
 - The frontend endpoints, are in *routes/frontend.php*, so Vue make ajax request using this endpoints
 - [FontAwesome](http://fontawesome.io/icons/) icons
 
-## Demos
 
-- Users table: Include CRUD, using server side pagination and filtering.
