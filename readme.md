@@ -19,8 +19,14 @@
 ## 安装
 ```
     cp .env.example .env
+```
+```
     vim .env        //修改数据库信息(DB_DATABASE, DB_USERNAME, DB_PASSWORD)
+```
+```
     php artisan key:generate
+```
+```
     php artisan migrate:refresh --seed   //生成数据库表
 ```
 
