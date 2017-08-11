@@ -1,5 +1,5 @@
 {
-    "name": "AgonyXD/tcode-admin",
+    "name": "agonyxd/tcodeadmin",
     "description": "A Admin Framework base on laravel+vue+element.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
