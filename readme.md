@@ -4,7 +4,7 @@
     <img width="300" src="https://laravel.com/assets/img/components/logo-laravel.svg">
 </p>
 
-## Laravel Vue Admin
+## Tcode-Admin
 
 - Based on [Laravel 5.4](http://d.laravel-china.org/docs/5.4)+[Vue 2.0](https://cn.vuejs.org/) using [Element](http://element.eleme.io/).
 - [FontAwesome](http://fontawesome.io/icons/) icons.
