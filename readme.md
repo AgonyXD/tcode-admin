@@ -6,7 +6,7 @@
 
 ## Tcode-Admin
 
-- Based on [Laravel 5.4](http://d.laravel-china.org/docs/5.4)+[Vue 2.0](https://cn.vuejs.org/) using [Element](http://element.eleme.io/).
+- Based on [Laravel 5.4](http://d.laravel-china.org/docs/5.4)+[Vue 2.0](https://cn.vuejs.org/) using [Element](http://element.eleme.io/)前端框架.
 - [FontAwesome](http://fontawesome.io/icons/) icons.
 
 ## 环境要求
