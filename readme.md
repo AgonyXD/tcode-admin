@@ -17,17 +17,21 @@
 - Tokenizer PHP Extension
 - XML PHP Extension
 ## 安装
+复制配置文件
 ```
     cp .env.example .env
 ```
+修改配置文件数据库信息
 ```
     vim .env        //修改数据库信息(DB_DATABASE, DB_USERNAME, DB_PASSWORD)
 ```
+生成秘钥
 ```
     php artisan key:generate
 ```
+生成数据库表
 ```
-    php artisan migrate:refresh --seed   //生成数据库表
+    php artisan migrate:refresh --seed   
 ```
 
 
